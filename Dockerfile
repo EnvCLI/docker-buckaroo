@@ -8,7 +8,7 @@ FROM ubuntu:18.10
 ############################################################
 # Configuration
 ############################################################
-ENV VERSION "2.0.0"
+ENV VERSION "2.0.1"
 ENV PATH "$PATH:/buck/bin"
 ENV JAVA_HOME "/usr/lib/jvm/java-8-openjdk-amd64"
 
